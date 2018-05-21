@@ -11,7 +11,9 @@
 
 1. Install virtualenv
 
+```
 $ sudo pip install virtualenv or $ sudo apt-get install python-virtualenv 
+```
 [more info](http://flask.pocoo.org/docs/0.12/installation/)
 
 2. create folder
