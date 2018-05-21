@@ -3,7 +3,7 @@
 
 ## Requirenments
 
-1. Unix OS (Ubuntu, kali, etc)
+1. VM with Unix OS (Ubuntu, kali, etc)
 2. Python 2.7
 3. Flask
 
@@ -25,7 +25,7 @@ $ mkdir ssti
 $ cd ssti
 ```
 
-3. copy "app" folder and paste it into ssti
+3. copy "app" folder and paste it into "ssti" folder
 
 ```
 -ssti
@@ -53,5 +53,4 @@ $ pip install Flask
 ```
 $ python ssti.py
 ```
-
 
